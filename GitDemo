@@ -1,0 +1,41 @@
+            What is Github
+        ========================
+
+
+Github is a code hosting platform for Collaboration and version control
+
+Github lets you (and others) work together on projects
+
+
+
+
+Repository
+=================
+
+
+A github Repository can be used to store a development projects
+
+it can contain folders and any type of files(html , css, javacscript)
+
+
+
+Why version control is needed 
+========================================
+
+
+in real life projects generally have multipler developers
+working in parallel so in a version control system like 
+git is needed to ensure there are no code conflict
+between the developers
+
+
+
+
+Git merge conflict
+=========================
+
+A merge conflict is an event that takes place when 
+git is unable to automatically resolve difference in code 
+between two commits are on different branches
+
+
